@@ -12,3 +12,7 @@ Mon petit poney sorti de nul part avec un harnais plus que douteux
 Muni du fouet des vierges du sang impure
 Mais, oui il y a un mais les poulains de la terre brulée s'y sont opposés !
 >>>>>>> Jeremy
+Durant son enfance, Nicolas avait eu un traumatisme suite à la chute d'une poutre sur sa tête.
+Depuis lors il souffrait du trouble de "dysphasie orbitale cognitive", plus communément appelé **"trip Ikea"**.
+En raison de ce trauma, le petit Nicolas se sentait constamment obligé d'imposer sa vision de la création de meubles Ikea : commencer la création du meuble par la fin.
+>>>>>>> Greg
